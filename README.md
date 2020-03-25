@@ -1,3 +1,7 @@
+# LINK DOWNLOAD 1 Vài thứ cần thiết
+- Burpsuite: https://drive.google.com/file/d/1r0wlctTzD3bIfbKY9KPZuvKEQw6iFFSK/view?fbclid=IwAR05YvFlh-Q_K5tCqodknOfWDpUF0UKXN5M73UZKcNd8pGLFIkAewipXYnA
+
+
 # WRITEUP CTF
 - CTF CLBISP: https://docs.google.com/document/d/19Pfb32jEBU0RpSRRwPaAEjGsAiF54xH9mCH40cQGAdg/edit
 
